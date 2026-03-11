@@ -1,0 +1,7 @@
+django
+djangorestframework
+requests
+streamlit
+flask
+psycopg2-binary
+openai
